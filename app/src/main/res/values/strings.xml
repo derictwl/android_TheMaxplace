@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TheMaxPlace</string>
+    <string name="main_url">http://themaxplace.com</string>
+    <!--<string name="repeat_url">http://themaxplace.com/api/g_id.php</string>-->
+    <string name="repeat_url">http://themaxplace.com/login.php?app=yes</string>
+
+    <string name="register_url">http://themaxplace.com/api/Get_Device_Android.php?user_id=%1$s&amp;device=%2$s</string>
+    <string name="IsDeviceRegistered">IsDeviceRegistered</string>
+    <string name="DateOfDeviceRegistration">DateOfDeviceRegistration</string>
+    <string name="deviceToken">deviceToken</string>
+    <string name="dateofdeviceregistration">DateOfDeviceRegistration</string>
+    <string name="user_id">user_id</string>
+    <string name="rational_permission_proceed">OK</string>
+    <string name="permission_string_btn">OK</string>
+    <string name="req_permission">App required some special permissions</string>
+    <string name="rejected_permission">You need to enable permission in order to use this app.</string>
+</resources>

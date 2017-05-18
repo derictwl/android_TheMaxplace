@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "132366858796",
+    "firebase_url": "https://themaxplace-148412.firebaseio.com",
+    "project_id": "themaxplace-148412",
+    "storage_bucket": "themaxplace-148412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132366858796:android:5ed5cb89e45aca49",
+        "android_client_info": {
+          "package_name": "com.themaxplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132366858796-bno2il7o1j32rmboftibsqknnc4vui1e.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "132366858796-scs641qu3to8pki8c452b942h0a228q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcEp3yZ_ZiTETBWqR6WhhXtVCytASIWhY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
