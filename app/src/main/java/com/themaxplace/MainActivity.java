@@ -61,12 +61,13 @@ public class MainActivity extends PermissionSupportActivity implements Permissio
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        checkForPermissions();
+//        checkForPermissions();
         swipeContainer = (SwipeRefreshLayout) findViewById(R.id.swipeContainer);
         swipeContainer.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
-                webView.reload();
+                webView.loadUrl(getString(R.string.refresh_url));
+//                webView.reload();
                 swipeContainer.setRefreshing(false);
             }
         });
